@@ -1,6 +1,14 @@
 # Introduction
 This python library is a tool to effortlessly train a generator model using pytorch. The usage instructions are provided below.
 
+The image below shows the generated image after training the model using CelebA dataset for only 5 epochs.
+
+![Real vs fake image afte training for 5 epochs](./images/real and fake images.png)
+
+The gif below shows the quality of generated images over each epoch.
+
+![Quality of generated image in each epoch](/Users/bhuwanbhatt/Documents/gan-trainer/images/generated_picture_animations.gif)
+
 # Pre-requisites
 1. Close this repository using `git clone`
 2. Install required libraries from the `requirements.txt` file
